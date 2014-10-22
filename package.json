@@ -1,0 +1,13 @@
+{
+  "name": "js-assignments",
+  "version": "0.0.1",
+  "description": "Fun with JS",
+  "author": "Jerel Navarrete",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  }
+}
